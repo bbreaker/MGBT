@@ -2,7 +2,7 @@ Package: MGBT
 Title: Multiple Grubbs-Beck Low-Outlier Test
 Version: 0.0.2
 Depends: R (>= 3.0.0)
-Date: 2017-07-07
+Date: 2017-10-23
 Author: William H. Asquith [aut, cre], John F. England [aut, ctb], George R. Herrmann [ctb]
 Description: Compute the multiple Grubbs-Beck low-outlier test on positively distributed data.
 Maintainer: William H. Asquith <wasquith@usgs.gov>
